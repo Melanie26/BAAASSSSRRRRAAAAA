@@ -1,0 +1,7 @@
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\obj\Debug\BasraTests.csprojResolveAssemblyReference.cache
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\bin\Debug\Basra.dll
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\bin\Debug\Basra.pdb
+\\store\mxn01u$\Private\Visual Studio 2012\Projects\Basra\UnitTestProject1\obj\Debug\UnitTestProject1.dll
